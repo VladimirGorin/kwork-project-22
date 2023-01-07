@@ -1,8 +1,6 @@
 # telegram-node-bot
 Very powerful module for creating Telegram bots.
 
-[Full API reference](http://nabovyan.xyz/telegram-node-bot/)
-
 ## Installation
 
 To install the stable version:

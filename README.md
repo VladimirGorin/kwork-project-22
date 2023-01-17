@@ -1,6 +1,6 @@
 #  
 
-telegram-node-bot
+ telegram-node-bot
  Very powerful module for creating Telegram bots.
 
 ## Installation
